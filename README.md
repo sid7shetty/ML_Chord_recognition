@@ -8,5 +8,5 @@ This script will:
 - Save the trained model to `chord_recognition_model.h5`.
 
 
-
+I used "IDMT-SMT-GUITAR_V2" Dataset from fraunhofer website.
 
